@@ -12,4 +12,4 @@
 ## Overview of DAIR Repositories
 
 The "txst-dair" is our Data Analytics, & Institutional Research organization ID.  All of our repositories should be created under this organization. 
-the txst-dair organization is under the Texas State University Enterprise within GitHub.
+The txst-dair organization is under the Texas State University Enterprise within GitHub.
