@@ -1,4 +1,4 @@
-# Data Analystics, & Institutional Research Git Repositories 
+# Data, Analytics, & Institutional Research Git Repositories 
 
 <!--
 👋
@@ -11,6 +11,5 @@
 
 ## Overview of DAIR Repositories
 
-GitHub is a way for us to securely keep our files organized.  It has a process to keep track of each version of a file as we make changes over time.  This allows us to see and/or go back to how a file looked in a previous version if we need to. We no longer have to do manual backups of files from our share drive to make sure we don't lose our files.  We are in control of previous versions of our files and don't have to get ITAC involved to restore a file etc.
-
-The "txst-dair" is our Data Analytics, & Institutional Research organization ID.  All of our functional repositories should be created under this organization.
+The "txst-dair" is our Data Analytics, & Institutional Research organization ID.  All of our repositories should be created under this organization. 
+the txst-dair organization is under the Texas State University Enterprise within GitHub.
